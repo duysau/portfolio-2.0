@@ -79,10 +79,10 @@ const AboutMe = () => {
                                 4+ years of experience building scalable ReactJS
                                 applications. Proficient in modern web
                                 technologies including TypeScript, Redux, Ant
-                                Design, and RESTful APIs. I excel in creating
-                                responsive web applications with a focus on
-                                performance optimization and delivering
-                                exceptional UI/UX in international projects.
+                                Design, and MUI. I excel in creating responsive
+                                web applications with a focus on performance
+                                optimization and delivering exceptional UI/UX in
+                                international projects.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
                                 My expertise spans across the modern web stack
