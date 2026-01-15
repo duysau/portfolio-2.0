@@ -94,6 +94,63 @@ export const MY_STACK = {
 
 export const PROJECTS: IProject[] = [
     {
+        title: 'Jobpang AI Orchestrator',
+        slug: 'jobpang-ai',
+        year: 2025,
+        description: `
+        An AI-powered recruitment platform designed to revolutionize the hiring process with intelligent resume analysis and career management.<br/><br/>
+
+        <strong>Key Features:</strong><br/>
+        <ul>
+            <li>🤖 <strong>Smart Resume Editor:</strong> AI detects errors and suggests spelling and style improvements.</li>
+            <li>📊 <strong>Detailed Matching Report:</strong> Evaluates candidate-JD fit across 3 dimensions (Culture Fit, Requirements, Experience).</li>
+            <li>📈 <strong>Overview Dashboard:</strong> 4-step process and multi-dimensional analysis by Personality Type.</li>
+            <li>💬 <strong>Community Forum:</strong> Share experiences, QA on resumes, interviews and recruitment preparation.</li>
+            <li>📝 <strong>Career Profile Management:</strong> Edit Career Documents with AI-powered optimization suggestions.</li>
+        </ul><br/>
+
+        <strong>Technical Highlights:</strong><br/>
+        <ul>
+            <li>Developed and optimized Front-end modules based on business requirements using NextJS and Shadcn UI.</li>
+            <li>Led technical direction, task breakdown, and mentoring for team members.</li>
+            <li>Proactively suggested improvements in UI/UX and performance based on user feedback.</li>
+            <li>Integrated complex AI features and utilized TanStack Query for efficient data fetching.</li>
+        </ul>
+        `,
+        role: `
+        Front-end Developer<br/>
+        <strong>Key responsibilities and achievements:</strong>
+        <ul>
+            <li>🚀 Led front-end development, providing technical direction, task breakdown, and mentoring to team members.</li>
+            <li>✨ Developed and optimized Front-end modules for the Jobpang system based on business requirements.</li>
+            <li>🔍 Conducted code reviews to ensure code quality, consistency, maintainability, and adherence to best practices.</li>
+            <li>💡 Proactively suggested improvements in UI/UX, performance, and Front-end architecture based on user feedback.</li>
+            <li>🗣️ Communicated directly with clients to clarify requirements, handle change requests, and align implementation.</li>
+        </ul>
+        `,
+        techStack: [
+            'Next.js',
+            'TypeScript',
+            'Tailwind CSS',
+            'Shadcn UI',
+            'TanStack Query',
+            'OpenAI',
+            'AWS',
+        ],
+        thumbnail:
+            'https://sf-static.upanhlaylink.com/img/image_2026011646d563503499969f523b9cf774f13fc6.jpg',
+        longThumbnail:
+            'https://sf-static.upanhlaylink.com/img/image_2026011646d563503499969f523b9cf774f13fc6.jpg',
+        images: [
+            'https://sf-static.upanhlaylink.com/img/image_202601166318e639bc10e8cb1a6f5ce6bb9c4c46.jpg',
+            'https://sf-static.upanhlaylink.com/img/image_20260116cf74c01dbe67381c0c25d264e4f2f892.jpg',
+            'https://sf-static.upanhlaylink.com/img/image_20260116b00f9f199b548c6420c04344a495000c.jpg',
+            'https://sf-static.upanhlaylink.com/img/image_20260116728e11549ba93a8bf060864371065e77.jpg',
+            'https://sf-static.upanhlaylink.com/img/image_20260116c75d00be61efd94449a531c41a08b3a4.jpg',
+            'https://sf-static.upanhlaylink.com/img/image_202601166c93f850fe90219f2c84bb85536841d2.jpg',
+        ],
+    },
+    {
         title: 'DMS',
         slug: 'fis-dms',
         // liveUrl: 'https://mti-electronics.vercel.app/',
@@ -315,8 +372,13 @@ export const PROJECTS: IProject[] = [
 export const MY_EXPERIENCE = [
     {
         title: 'Front-end developer',
+        company: 'Icetea Software',
+        duration: 'August 2025 - Present',
+    },
+    {
+        title: 'Front-end developer',
         company: 'FIS',
-        duration: 'April 2023 - Present',
+        duration: 'April 2023 - August 2025',
     },
     {
         title: 'Front-end Developer',

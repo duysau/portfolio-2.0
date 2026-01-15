@@ -75,26 +75,28 @@ const AboutMe = () => {
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
-                                I&apos;m a passionate Front-end Developer with
-                                4+ years of experience building scalable ReactJS
-                                applications. Proficient in modern web
-                                technologies including TypeScript, Redux, Ant
-                                Design, and MUI. I excel in creating responsive
-                                web applications with a focus on performance
-                                optimization and delivering exceptional UI/UX in
-                                international projects.
+                                I&apos;m a Front-end Developer with 5 years of
+                                experience building scalable and
+                                high-performance web applications using ReactJS
+                                and NextJS. With strong expertise in TypeScript
+                                and modern UI libraries, I specialize in
+                                front-end architecture and performance
+                                optimization. I actively contribute to technical
+                                direction and code quality, ensuring
+                                maintainable and exceptional UI/UX experiences
+                                for international projects.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
-                                My expertise spans across the modern web stack
-                                including ReactJS, NextJS, Redux, and Context
-                                for state management. I&apos;m skilled in HTML5,
-                                CSS3, SCSS, and Tailwind CSS for crafting
-                                beautiful interfaces. I follow industry best
-                                practices and design patterns like Singleton,
-                                Prototype, and Observer. Additionally, I have
-                                experience with Web3.js and blockchain
-                                integration, showcasing my ability to work with
-                                cutting-edge technologies.
+                                I possess a deep understanding of the modern web
+                                ecosystem, including State Management (Redux,
+                                Context, TanStack Query) and UI styling
+                                (Tailwind CSS, Shadcn UI, Ant Design). I apply
+                                industry best practices and design patterns,
+                                such as Singleton-based API services, to build
+                                robust systems. Furthermore, I have practical
+                                experience with Web3.js blockchain integration
+                                and AI-driven applications, demonstrating my
+                                capability to master cutting-edge technologies.
                             </p>
                         </div>
                     </div>
